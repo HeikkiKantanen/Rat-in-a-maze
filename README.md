@@ -2,6 +2,8 @@
 
 ## Description
 
+- An application developed with React.js for the Full Stack Web Development program in Business College Helsinki.
+
 - A 4x4 matrix where the program finds all the possible ways to go from source (top left) to destination (bottom right)
 - A final assignment of Data Structures course @ Business College Helsinki
 
